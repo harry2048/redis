@@ -7,4 +7,8 @@ public class SpringRedisDemo {
      * 3、设置jedisPoolConnectionFactory，填充jedisPool，密码，第一步的连接池的config,第二步的sentinalConfig
      * 4、将jedisPoolConnectionFactory设置到redisTemplate中
      */
+
+    public void testSpringRedis() {
+
+    }
 }
